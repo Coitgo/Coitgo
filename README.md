@@ -1,5 +1,5 @@
 ## Hi 👋
-一个Clan Skryre的鼠鼠， technology thing yes YES！
+technology thing yes YES！
 ## 🚀 C++
 还在学
 ## 🛥️ Java
